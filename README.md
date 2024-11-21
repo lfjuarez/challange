@@ -1,4 +1,4 @@
-# challange
+# challenge
 
 Introducción
 Este conjunto de scripts ha sido desarrollado para facilitar la gestión y protección de archivos en Google Drive de manera automatizada. Su propósito es identificar archivos con visibilidad pública, evaluar su nivel de criticidad según información aportada por sus propietarios y aplicar políticas de seguridad que reduzcan el riesgo de accesos no autorizados. Al automatizar estas tareas, el proceso se vuelve más eficiente y alineado con las mejores prácticas en seguridad de la información.
