@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "single-arcanum-442419-r9",
+  "private_key_id": "440705674b9badb18d87196f2910aa0fcea2ebed",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC24Iy+bNMmrRES\nHK3cxD3otcmUvLuDEnkAGlJ9UnUUqMNSScDD2vzuiwfEy2HblOFT7upjuFUVu07O\nMCx8pdgLUwJP1XOz82QsOoplloltdyxksJwyJ09+S7gaGaj/o8jY4jJTgzfMomEy\n0XiEAxT5c9PCn8/aNFUF1WGSrvP0OTSBCaQmHrBwNCFbLC1F8dAsRKN33LD4O6XW\nZlv7EDgQWGBCEAWZK1984UwLf0esmcHuSFV8IHZRGjTF6z6CFlkOyecxBCodbcAx\nVMS7dq30XAgjkTP5acGI0PfoU+RcSAVjI1NsVR9UZMiOy9brPUgxwpt40+ZGLADC\n9iLxRXWZAgMBAAECggEAWSUTpn2w3hEOGbieLdgBX69BwL3RX/7AugKaxFlOFlB/\nydyG2VIl6ngeRNlpbdrgjgQQAKUp4KqKKytDfE1xh2+i2FyyBn22DnNI5GVhv1kQ\n7FJFCZOtBeEOMLbicR8bOFHm+1ui9x8OZ3HBoARKlKDYEG7LqM/KxEm0QwcCh0EJ\naUvMGuUBCvJ82df5LBkIStCQCLl0wlEY+GDxZAzUEUv/naAdENwyxo2zEZKDodWo\nRSNz0ki2DJF3urRe3+Am9hNwemgSw9gnZgSgxczIRzkIcb8keCri6QtmkPZgiqDo\nl8gSbiVxm22BLbJBW7XEb07wi2hkBzD8owPGnWCb4wKBgQDvSN3W1+Q7tTsGMd2b\naIFswKFe1mi99bh5KXLNdd1fzfjYOaN1AvGgzwYd8VX6RzDzL2lQj6r1S3e6jTIs\n+zN/UdMUvkEuIHk7qhgsAuaGYfOtzdQCqUbsuXa1daqiQMpAFOhjax3yZsoOuT7k\nCKAJS0vPjL0jE7cx5Uae16ymFwKBgQDDpvJWtKy8TGRWyEpFPYWjAxJ1jd5GcGnN\nQqBW5TagSu5So35WQ/lT+5QMVeeRGTlFcx5lw4CUcLOYfaU16/mU9AyN0JUEop3k\nExs48gXRlIEwZgiY0tf/X6nR1znKtjPNIQ+3LxryPz99EB78B13e3wAlusZlijPu\n1+mj4UC/zwKBgEWlPMRilBB44FQeQXURRtJjgtR6rYPUuDuzv7Fjg+p1pd8xb40I\nLVHzz8D5VGADRpERlKKZHlZE//UxUZBcERIWu8xGz+vgEck26dAti/FDI0zMItAf\newA9vvpz5BVTrEpYi4ccT1wVZOxCKLbwd7wcyVUAjrBd9a01IYfsGFlDAoGBAKej\n8l1srd0hr4/USh8N2eWVCkoDZwL/6wffILeT6rxpt87DG8sarxXQqEfxi1r+O95Q\nBym23ANUle4BKoALU2zXt7IDmMvB8nusC1U9utKa5h7sLk2Ty1ObSkzsly4j9Dq9\nK1QQXoxWuTWVjJbyUPJYLS4m3Tu/sUPjaOPsa6htAoGAMRFKU6RM9MkwhkpjCte+\nhlWiNgPbbZz0cfRU+g9iJ5JUeS/802XI4O6x2cp5Ushqsd9YeXTwv6uoCnnW1mrb\nq2lrj+rD7/LgGIlt2SLpOZZdjPglBdQYQhhQLLkGHMaFohF+0dmRTFjb1kzQRfCQ\nVqb/lB55RP1yznU75TMEKm8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "challange@single-arcanum-442419-r9.iam.gserviceaccount.com",
+  "client_id": "109047888142288600624",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/challange%40single-arcanum-442419-r9.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
